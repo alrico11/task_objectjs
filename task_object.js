@@ -14,7 +14,6 @@ const motor ={
         console.log(motor.cc+"\n")
     }
 }
-motor.getObjMotor()
 
 //
 const mobil ={
